@@ -1,0 +1,3 @@
+#num_clusters = len(set(cluster_labels))
+#clusters = pd.Series([coordenadas[cluster_labels == n] for n in range(num_clusters)])
+#print('Number of clusters: {}'.format(num_clusters))
